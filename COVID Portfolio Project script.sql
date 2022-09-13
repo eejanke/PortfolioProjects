@@ -74,10 +74,10 @@ Order By 1,2
 
 
 ---- Countries with highest infection rate compared to Population
---Select continent, SUM(population) as TotalPopulation, SUM(new_cases) as TotalCases, (SUM(new_cases)/Sum(population))*100 as InfectionRate --MAX(total_cases) as HighestInfectionCount, MAX((total_cases/population))*100 as CasePercentage
---FROM PortfolioProject..CovidDeaths
---Where continent is not null
---Group by continent
+Select continent, SUM(population) as TotalPopulation, SUM(new_cases) as TotalCases, (SUM(new_cases)/Sum(population))*100 as InfectionRate --MAX(total_cases) as HighestInfectionCount, MAX((total_cases/population))*100 as CasePercentage
+FROM PortfolioProject..CovidDeaths
+Where continent is not null
+Group by continent
 
 
 -- Global Numbers, Death Percentage per Day
