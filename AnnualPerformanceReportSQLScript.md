@@ -4,7 +4,11 @@
 
 This sample data is used to analyze the impact of after school programs as funded by public monies. It is required to report this information to the appropriate government agencies. 
 
-Skills – Select, case, alias, joins, aggregation, nested select join
+## Skills 
+
+Select, Case, Alias, Aggregation, Join, Nested Select Join
+
+## Script
 
 Number of students participated in each hour range by grade.
 
