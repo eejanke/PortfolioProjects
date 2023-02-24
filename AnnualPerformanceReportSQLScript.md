@@ -2,9 +2,9 @@
 
 ## Purpose
 
-This sample data is used to analyze the impact of after school programs as funded by public monies. It is required to report this information to the appropriate government agencies. 
+This sample data is used to analyze the impact of after school programs as funded by federal monies using SQL. It is required to report this information to the appropriate government agencies. 
 
-## Skills 
+## Skills - SQL
 
 Select, Case, Alias, Aggregation, Join, Nested Select Join
 
