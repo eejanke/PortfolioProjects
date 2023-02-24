@@ -7,27 +7,31 @@ I am currently a self-employed consultant working with the Roosevelt School Dist
 
 
 # Education
+
 ### [Professional Certificate - Google Data Analytics](https://coursera.org/share/b8a111b38bbb33e35f7928c7c136716b)
-Coursera
 
-Strengthen understanding in proper ways to prepare, process, analyze, and share data for thoughtful action.
-
-**Skills:** SQL, Tableau, R, Excel, Google Sheets 
+>Coursera
+>
+>Strengthen understanding in proper ways to prepare, process, analyze, and share data for thoughtful action.
+>
+>**Skills:** SQL, Tableau, R, Excel, Google Sheets 
 
 ### Master of Arts - Educational Policy
-Arizona State University
 
-3.97 GPA
-
-Deepened understanding of research and policymaking to critically assess education programs and policies. Developed the skills needed to gather, analyze, and interpret meaningful data to make decisions that will have a positive impact on learning.
-
-**Skills:** Research, Regression Analysis, SPSS, Excel
+>Arizona State University
+>
+>3.97 GPA
+>
+>Deepened understanding of research and policymaking to critically assess education programs and policies. Developed the skills needed to gather, analyze, and interpret meaningful data to make decisions that will have a positive impact on learning.
+>
+>**Skills:** Research, Regression Analysis, SPSS, Excel
 
 ### Bachelor of Arts - Elementary Education, Diversity in Language and Learning
-Arizona State University
 
-3.81 GPA
-
-Learned principles of first- and second-language acquisition, foundations of various program models, global awareness and diversity in families and communities in multicultural settings, as well as academic content areas including math, language arts, computer literacy and science with a specific focus on meeting the academic and linguistic needs of English language learners.
-
-**Skills:** Strategic Planning, Collaboration, Time Management
+>Arizona State University
+>
+>3.81 GPA
+>
+>Learned principles of first- and second-language acquisition, foundations of various program models, global awareness and diversity in families and communities in multicultural settings, as well as academic content areas including math, language arts, computer literacy and science with a specific focus on meeting the academic and linguistic needs of English language learners.
+>
+>**Skills:** Strategic Planning, Collaboration, Time Management
