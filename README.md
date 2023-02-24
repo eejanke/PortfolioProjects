@@ -29,3 +29,5 @@ Arizona State University
 3.81 GPA
 
 Learned principles of first- and second-language acquisition, foundations of various program models, global awareness and diversity in families and communities in multicultural settings, as well as academic content areas including math, language arts, computer literacy and science with a specific focus on meeting the academic and linguistic needs of English language learners.
+
+**Skills:** Strategic Planning, Collaboration, Time Management
