@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/88345207/221957641-c0dad94d-d69c-42fa-ad4b-2f24e0a7565c.jpg" width="300" height="310">
+
 # About Me
 
 Data analysis has been a passion of mine ever since I was little and realized data could provide me with answers to my questions. Can a plant grow in a closet? What’s up with the phrase “April showers bring May flowers?” When is the best time for me to study so I can retain the most information possible? I’m glad I can use this passion of mine in my work today. 
