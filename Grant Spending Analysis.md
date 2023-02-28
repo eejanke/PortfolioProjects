@@ -4,7 +4,7 @@
 
 ESSER III funds were sent to education entities to support education for students during the COVID-19 pandemic. All entities that recieved funds are required to publish spending reports for the public.
 
-Based on the data and criteria given by stakeholders, I was able to create the following report which was published to the district website. 
+Based on the data and criteria given by stakeholders, I created the following report which was published to the district website. 
 
 [District Website - ESSER III Spending Link](https://www.rsd66.org/business-finance)
 
