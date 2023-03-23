@@ -1,6 +1,4 @@
 --Create temporary table by combining the last 12 months through unions
---Excluding rides that had negative time.
-
 Drop Table if Exists #yearly_tripdata
 Create Table #yearly_tripdata
 	(
@@ -86,6 +84,7 @@ FROM #yearly_tripdata
 ORDER BY ride_length DESC
 --No duplicates are in the table
 
+--Calculating ride length by finding the difference between the start of the ride and the end
 SELECT *, DATEDIFF(SECOND, started_at, ended_at) as trip_time
 INTO #yearly_triptime
 FROM #yearly_tripdata
